@@ -1,0 +1,15 @@
+package org.ssglobal.training.codes.itemA;
+
+public class LotsOfErrors {
+	public static void main(String[] args) {
+		System.out.println("Hello, world!");
+		message();
+	}
+	
+	/* This method will print a message */
+	public static void message() {
+		System.out.println("This program surely cannot");
+		System.out.println("have any so-called errors in it");
+	}
+
+}
